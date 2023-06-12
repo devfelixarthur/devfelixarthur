@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Capa](./img/capa.gif.gif)
 
 ## 👩‍💻 Quem sou eu 👩‍💻

@@ -33,13 +33,8 @@ Olá! Eu sou o Arthur Felix. Sou desenvolvedor fullstack em formação, acabei o
 </div>
 
 ## 💎 Onde me encontrar 💎
-<div target="_blank">
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.felixarthur@gmail.com)
-</div>
-<div target="_blank">
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurflandrade/)
- </div>
- <div target="_blank">
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5521973063532?text=Olá%20tudo%20bem?%20Estava%20vendo%20o%20seu%20*github*,%20gostaria%20de%20conversar%20mais!)
-</div>
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.felixarthur@gmail.com){:target="_blank"}
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurflandrade/){:target="_blank"}
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5521973063532?text=Olá%20tudo%20bem?%20Estava%20vendo%20o%20seu%20*github*,%20gostaria%20de%20conversar%20mais!){:target="_blank"}
 

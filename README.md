@@ -1,7 +1,7 @@
 ![Capa](./img/capa.gif.gif)
 
 ## 👩‍💻 Quem sou eu 👩‍💻
-Olá! Eu sou o Arthur Felix. Sou desenvolvedor fullstack em formação, acabei o módulo de frontend e backend, agora estou estudando testes no bootcamp da [Labenu](https://portal.ufpel.edu.br/). Além de ser um entusiasta do que a tecnologia pode proporcionar sou engenheiro civil de formação e hoje me encontro em transição de carreira para área de programação, buscando oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores.
+Olá! Eu sou o Arthur Felix. Sou desenvolvedor fullstack em formação, acabei o módulo de frontend e backend, agora estou estudando testes no bootcamp da [Labenu](https://www.labenu.com.br). Além de ser um entusiasta do que a tecnologia pode proporcionar sou engenheiro civil de formação e hoje me encontro em transição de carreira para área de programação, buscando oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores.
 
 ## 🗂️ O que você encontra no meu Github 🗂️
 

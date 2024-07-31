@@ -1,17 +1,17 @@
 ![Capa](./img/capa.gif.gif)
 
-## 👩‍💻 Quem sou eu 👩‍💻
-Olá! Eu sou o Arthur Felix. Sou desenvolvedor web atuando trabalhando atualmente com JAVA, PHP e Javascript, estou me aventurando a estudar Angular. Sou um entusiasta do que a tecnologia pode proporcionar sou engenheiro civil de formação e nos últimos anos fiz a transição de carreira para área de programação.
+## 👩‍💻 Who am I 👩‍💻
+Hello! I'm Arthur Felix. I'm a web developer currently working with JAVA, PHP, and JavaScript. I'm also venturing into studying Angular. I'm an enthusiast of what technology can offer and a civil engineer by training. In recent years, I made a career transition to the programming field.
 
-## 🗂️ O que você encontra no meu Github 🗂️
+## 🗂️ What you'll find on my GitHub 🗂️
 
-👩‍💻 Projetos de frontend
+👩‍💻 Frontend projects
 
-🤖 Projetos de backend
+🤖 Backend projects
 
-🖥️ Alguns códigos aleatórios
+🖥️ Some random code snippets
 
-## 🌟 Tecnologias que utilizo 🌟
+🌟 Technologies I use 🌟
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,14 +27,14 @@ Olá! Eu sou o Arthur Felix. Sou desenvolvedor web atuando trabalhando atualment
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 📊 Status sobre o que eu ando fazendo por aqui 📊
+## 📊 Status of what I'm working on here 📊
 <div align = "center">
  
 ![Status devfelixarthur](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devfelixarthur&theme=nord_dark) 
 
 </div>
 
-## 💎 Onde me encontrar 💎
+## 💎 Where to find me 💎
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.felixarthur@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurflandrade/) 
